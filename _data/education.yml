@@ -4,8 +4,18 @@
   qualification: Bachelor of Science in Computer Science 
 
   quote: >
-    The university was founded by 19 U.S. governors in 1997 after the idea was formulated at a 1995 meeting of the Western Governors Association to expand education offerings to the internet.[6] WGU degree programs are accredited by regional and national accreditation bodies such as the NWCCU, ACBSP, CAEP, CAHIIM, CCNE, and the NCATE.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at WGU learned the following....
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    The most interesting projects were... 
+
+- layout: left
+  name: Western Governors University 2
+  dates: 2018 - 2020
+  qualification: Bachelor of Science in Computer Science 
+
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    During my time at WGU learned the following....
+
+    The most interesting projects were... 
