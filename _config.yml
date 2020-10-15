@@ -3,10 +3,10 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Brian Pemberton
+test: Senior Network System Administrator
+email: brian.d.pemberton@gmail.com
+website: https://pemby.github.io/
 
 # Social links
 twitter_username: facespics
