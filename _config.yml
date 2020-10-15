@@ -4,18 +4,17 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Brian Pemberton
-test: Senior Network System Administrator
 email: brian.d.pemberton@gmail.com
 website: https://pemby.github.io/
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  pemby
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-#linkedin_username: jameswgrant
+linkedin_username: brpemberton
 # pinterest_username: jekyll
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
