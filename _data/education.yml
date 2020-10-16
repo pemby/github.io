@@ -1,27 +1,19 @@
-- layout: left
-  name: Western Governors University
-  dates: 2018 - 2020
-  qualification: Bachelor of Science - Computer Science 
-
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-  During my time at WGU learned the following
-
-- layout: left
-  name: CompTIA 
-  dates: 2020 - 2020
-  qualification: CompTIA Project+ Certification
-
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-  Project+ certification trained me to manage projects using phases, schedules, roles and responsibilities, and cost controls and identify the fundamental aspects of Agile methodologies. We also covered predicting the impact of various constraint variables and influences and the importance of risk strategies and activities. We learned appropriate communication methods of persuasion and used change control processes within the context of a project. We also compared and contrast various project management tools and analyze project and partner-centric documentation.
-
-
-- layout: left
-  name: Portland Community College 
-  dates: 2014 - 2016
-  qualification: Associate of Applied Science - Computer Information Systems
-
-  quote: >
-  description: | # this will include new lines to allow paragraphs
-  This degree is concerning computer information systems related to career skills. I took classes in the CIS (Computer Information Systems) Department, including software analysis, design, programming (in Java and C++), database modeling; I wrote GUI applications in Java and .NET. Also, I learned advanced usage and configuration of Unix/Linux operating systems and data communications. The curriculum's emphasis was on developing enduring skills and knowledge rather than on training than using specific tools and applications that may be "fashionable."  
+--- 
+- 
+  dates: "2018 - 2020"
+  description: ""
+  layout: left
+  name: "Western Governors University"
+  qualification: "Bachelor of Science - Computer Science"
+- 
+  dates: "2020 - 2020"
+  description: "Project+ certification trained me to manage projects using phases, schedules, roles and responsibilities, and cost controls and identify the fundamental aspects of Agile methodologies. We also covered predicting the impact of various constraint variables and influences and the importance of risk strategies and activities. We learned appropriate communication methods of persuasion and used change control processes within the context of a project. We also compared and contrast various project management tools and analyze project and partner-centric documentation."
+  layout: left
+  name: CompTIA
+  qualification: "CompTIA Project+ Certification"
+- 
+  dates: "2014 - 2016"
+  description: "This degree is concerning computer information systems related to career skills. I took classes in the CIS (Computer Information Systems) Department, including software analysis, design, programming (in Java and C++), database modeling; I wrote GUI applications in Java and .NET. Also, I learned advanced usage and configuration of Unix/Linux operating systems and data communications. The curriculum's emphasis was on developing enduring skills and knowledge rather than on training than using specific tools and applications that may be \"fashionable.\""
+  layout: left
+  name: "Portland Community College"
+  qualification: "Associate of Applied Science - Computer Information Systems"
