@@ -24,10 +24,11 @@ linkedin_username: brpemberton
 about_profile_image: images/helloWorld.png
 about_content: | # this will include new lines to allow paragraphs
   I am a technical support professional with a tenacity to solve problems using technology and automation. I have demonstrated a history of working in the primary/secondary education industry. I am skilled in computer hardware and software repair, system administration (OSX/iOS, Windows & Linux). I am proficient in Python, Java, C, C++, Scripting (Bash, BAT, Powershell, Google App Scripting). I am experienced in setting up development environments, network stacks, and user environments in Windows, Linux, OSX. I am also experienced with setting up and configuring Linux network stacks (DNS, DHCP, and network accounts), configuring Apache web servers, and iOS MDM server and client configurations and setup. I am also experienced in web development using: HTML, CSS, Javascript. Sofware Development Experience using OOP, MVC, paradigms with the following software frameworks: JavaFX, Django, and .NET. 
-  
+
   I am most skilled in: <mark>Python</mark>, <mark>automation</mark> and  <mark>technical support</mark>.
 # Projects Section
 # projects_title: Projects
+
 
 # Experience Section
 # experience_title: Experience
@@ -39,10 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+   - Eletronic Music Making
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Cooking
 
 # Footer
 footer_show_references: true
