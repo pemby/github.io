@@ -5,15 +5,12 @@
 
   quote: >
   description: | # this will include new lines to allow paragraphs
-    During my time at WGU learned the following....
-
-    The most interesting projects were... 
-
+  During my time at WGU learned the following
 
 - layout: left
   name: CompTIA 
   dates: 2020 - 2020
-  qualification: CompTIA Project+ Certification 
+  qualification: CompTIA Project+ Certification
 
   quote: >
   description: | # this will include new lines to allow paragraphs
