@@ -13,14 +13,11 @@
 - layout: left
   name: CompTIA 
   dates: 2020 - 2020
-  qualification: Project+ 
+  qualification: CompTIA Project+ Certification 
 
   quote: >
   description: | # this will include new lines to allow paragraphs
-    During my time at PCC learned the following....
-
     CompTIA Project+ gives business professionals – inside and outside of IT – the basic concepts to successfully manage small- to medium-sized projects. 
-
 
 
 
@@ -31,7 +28,4 @@
 
   quote: >
   description: | # this will include new lines to allow paragraphs
-    During my time at PCC learned the following....
-
-    The most interesting projects were... 
-
+      This degree is concerning computer information systems related to career skills. I took classes in the CIS (Computer Information Systems) Department, including software analysis, design, programming (in Java and C++), database modeling; I wrote GUI applications in Java and .NET. It advanced usage and configuration of Unix/Linux operating systems, data communications. The curriculum's emphasis was focused on developing enduring skills and knowledge rather than on training than use specific tools and applications that may be "fashionable."  
