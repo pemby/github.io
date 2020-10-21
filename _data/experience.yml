@@ -1,77 +1,24 @@
-- company: Portland Public Schools
-  dates: February 2014 - Present
-  description: >-
-    - Troubleshoot, diagnose and repair a variety of technologies, computer
-    hardware, software, networks and peripheral equipment. 
-
-
-    - Assure user needs are met and technical support issues are resolved in a
-    timely manner.
-
-
-    - Deliver service and support to end-users via telephone, remote connection,
-    in-person or over the internet
-
-
-    - Gather customer information and determine issues by evaluating and
-    analyzing the symptoms, diagnose and resolve technical hardware and software
-    issues. 
-
-
-    - Identify and redirect problems to appropriate resources.
-
-
-    - Provide technical support for users during technology deployments, system
-    upgrades, enhancements or other technical projects
-  job_title: Service Desk Technician 
-  layout: left
-  link: 'https://www.pps.net/'
-  quote: >
-  My role at PPS has varied quite a bit over the years. My primary role has been technical support for the school site.  I have had opportunities to develop custom solutions and applications, set up a Raspberry pi weather station, proctor state testing, and even taught a few electives concerning technology and programming. 
-- company: The Mac Store
-  dates: February 2014 - Present
-  description: >-
-    - Troubleshoot, diagnose and repair a variety of technologies, computer
-    hardware, software, networks and peripheral equipment. 
-
-
-    - Assure user needs are met and technical support issues are resolved in a
-    timely manner.
-
-
-    - Deliver service and support to end-users via telephone, remote connection,
-    in-person or over the internet
-
-
-    - Gather customer information and determine issues by evaluating and
-    analyzing the symptoms, diagnose and resolve technical hardware and software
-    issues. 
-
-
-    - Identify and redirect problems to appropriate resources.
-
-
-    - Provide technical support for users during technology deployments, system
-    upgrades, enhancements or other technical projects
-  job_title: Instructional Technology Assistant
-  layout: left
-  link: 'https://www.pps.net/'
-  quote: >
-    The Mac Store was the oldest and largest locally owned and operated Apple reseller in the Pacific Northwest. They specialized in both the newest Mac computers and expert Mac help as well as maintaining one of the largest inventories of used Macs anywhere. 
-- company: Apple Inc
-  dates: June 2006 - May 2009
-  description: >-
-    - Provided frontline customer support at the Genius Bar, which includes troubleshooting and diagnosing hardware and software, while providing an educational experience for the customer.
-
-
-    - Provided industry leading customer support and service to the highly demanding New York City and Silicon Valley areas. 
-
-
-    - Resolved charged emotional situations with professionalism and empathy.
-
-
-    - Manage all aspects of repair workflow, including open repairs prioritization, case management, and service part order management.
-
-  job_title: Genius
-  layout: left
-  link: 'https://www.apple.com/
+- 
+   layout: left
+ company: "The Boring Company"
+ link: "boringcompany.com"
+ job_title: "Senior Network System Administrator"
+ dates: "November 2017 - Present"
+ quote: "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*\n"
+ description: "Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.\n"
+- 
+   layout: left
+ company: "The Boring Company"
+ link: "boringcompany.com"
+ job_title: "Senior Network System Administrator"
+ dates: "November 2017 - Present"
+ quote: "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*\n"
+ description: "Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.\n"
+- 
+   layout: left
+ company: "The Boring Company"
+ link: "boringcompany.com"
+ job_title: "Senior Network System Administrator"
+ dates: "November 2017 - Present"
+ quote: "Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*\n"
+ description: "Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.\n"
