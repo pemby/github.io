@@ -1,19 +1,25 @@
-# Experience template
-- layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
-    - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+--- 
+- 
+  company: "Company name"
+  dates: "Date Range (eg. November 2016 - present)"
+  description: "Description of role"
+  job_title: "Job title"
+  layout: left
+  link: "Link o tcompany (optional)"
+  quote: "Short description of the company (optional)\n"
+- 
+  company: "Company name"
+  dates: "Date Range (eg. November 2016 - present)"
+  description: "Description of role"
+  job_title: "Job title"
+  layout: left
+  link: "Link o tcompany (optional)"
+  quote: "Short description of the company (optional)\n"
+- 
+  company: "Company name"
+  dates: "Date Range (eg. November 2016 - present)"
+  description: "Description of role"
+  job_title: "Job title"
+  layout: left
+  link: "Link o tcompany (optional)"
+  quote: "Short description of the company (optional)\n"
