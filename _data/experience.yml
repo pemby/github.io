@@ -1,7 +1,7 @@
 --- 
 - 
-  company: "Company name"
-  dates: "Date Range (eg. November 2016 - present)"
+  company: "Portland Public Schools"
+  dates: "February 2014 - Present"
   description: |-
       - "Troubleshoot, diagnose and repair a variety of technologies, computer hardware, software, networks and peripheral equipment."
       - "Assure user needs are met and technical support issues are resolved in a timely manner."
@@ -9,10 +9,10 @@
       - "Gather customer information and determine issues by evaluating and analyzing the symptoms, diagnose and resolve technical hardware and software issues."
       - "Identify and redirect problems to appropriate resources."
       - "Provide technical support for users during technology deployments, system upgrades, enhancements or other technical projects"
-  job_title: "Job title"
+  job_title: "Instructional Technology Assistant"
   layout: left
-  link: "Link o tcompany (optional)"
-  quote: "Short description of the company (optional)\n"
+  link: "https://www.pps.net/"
+  quote: "  My role at PPS has varied quite a bit over the years. My primary role has been technical support for the school site.  I have had opportunities to develop custom solutions and applications, set up a Raspberry pi weather station, proctor state testing, and even taught a few electives concerning technology and programming."
 - 
   company: "Company name"
   dates: "Date Range (eg. November 2016 - present)"
