@@ -2,7 +2,7 @@
 - 
   company: "Company name"
   dates: "Date Range (eg. November 2016 - present)"
-  description: |
+  description: |-
       - "Troubleshoot, diagnose and repair a variety of technologies, computer hardware, software, networks and peripheral equipment."
       - "Assure user needs are met and technical support issues are resolved in a timely manner."
       - "Deliver service and support to end-users via telephone, remote connection, in-person or over the internet"
