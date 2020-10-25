@@ -2,18 +2,13 @@
 - 
   company: "Company name"
   dates: "Date Range (eg. November 2016 - present)"
-  description: |-
-      - Troubleshoot, diagnose and repair a variety of technologies, computer hardware, software, networks and peripheral equipment. 
-      
-      - Assure user needs are met and technical support issues are resolved in a timely manner.
-      
-      - Deliver service and support to end-users via telephone, remote connection, in-person or over the internet
-      
-      - Gather customer information and determine issues by evaluating and analyzing the symptoms, diagnose and resolve technical hardware and software issues. 
-      
-      - Identify and redirect problems to appropriate resources.
-      
-      - Provide technical support for users during technology deployments, system upgrades, enhancements or other technical projects
+  description: |
+      -"Troubleshoot, diagnose and repair a variety of technologies, computer hardware, software, networks and peripheral equipment."
+      - "Assure user needs are met and technical support issues are resolved in a timely manner."
+      - "Deliver service and support to end-users via telephone, remote connection, in-person or over the internet"
+      - "Gather customer information and determine issues by evaluating and analyzing the symptoms, diagnose and resolve technical hardware and software issues."
+      - "Identify and redirect problems to appropriate resources."
+      - "Provide technical support for users during technology deployments, system upgrades, enhancements or other technical projects"
   job_title: "Job title"
   layout: left
   link: "Link o tcompany (optional)"
