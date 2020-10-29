@@ -23,7 +23,7 @@ linkedin_username: brpemberton
 # about_title: About Me
 about_profile_image: images/helloWorld.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a technical support professional with a tenacity to solve problems using technology and automation. I have demonstrated a history of working in the primary/secondary education industry. I am skilled in hardware and software repair, system administration (OSX/iOS, Windows & Linux), Python, Java, C, C++, Scripting (Bash, BAT, Powershell, Google App Scripting). I am experienced in setting up development environments, network stacks, web servers,  MDM server, and client configurations. I also have experience in web development using: CMS, HTML, CSS, Javascript. Lastly, I have software development experience using OOP and MVC paradigms with the following software frameworks: JavaFX, Django, and .NET.
+  I am a technical support professional with a tenacity to solve problems using technology and automation. I have demonstrated a history of working in the primary/secondary education industry. I am skilled in hardware and software repair, system administration (OSX/iOS, Windows & Linux), Python, Java, C, C++, Scripting (Bash, BAT, Powershell, Google App Scripting). I am experienced in setting up development environments, network stacks, web servers,  MDM server, and client configurations. I also have experience in web development using: CMS, HTML, Javascript. Lastly, I have software development experience using OOP and MVC paradigms with the following software frameworks: JavaFX, Django, and .NET.
 
   I am most skilled in: <mark>Python</mark>, <mark>automation</mark> and  <mark>technical support</mark>.
 # Projects Section
