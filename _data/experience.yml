@@ -29,7 +29,14 @@
 - 
   company: "Apple INC"
   dates: "Date Range (eg. November 2016 - present)"
-  description: "Description of role"
+    description: |-
+      - Troubleshoot, diagnose, repair computer hardware, software, networks, and peripheral equipment.
+      - Technical support to staff, students, and community members via telephone, virtually, remote and in-person.
+      - Audio Visual support and for live performances and events. Micing, mixing, lighting, soundboards, and post-production.
+      - Supervised a computer lab of students before, during, and after school, emphasizing exploring and experimenting with computers and technology.
+      - Maintain positive relationships with staff, students, and community members and keep open office hours for technical support meetings.
+      - Supervised, trained, and managed student-run technology support teams that focused on tech support and technology projects.
+      - Serve as the primary support person for anything that plugs into the wall inside a typical school building.
   job_title: Genius
   layout: left
   link: "Link o tcompany (optional)"
